@@ -8,8 +8,6 @@
 <p align="justify">Student in the 4th period of Software Analysis and Development, passionate about coffee, movies, games and technology.  
 <br>
 
-##
-
 ![Jhonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathancoutinho&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathancoutinho)](https://github.com/anuraghazra/github-readme-stats)
