@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by illustrator" height="397" src="https://user-images.githubusercontent.com/135539975/262809739-6b2b7c20-1921-494e-a083-a7c29cee1d32.png">
+<img align="right" alt="Developer vector created by illustrator" height="360" src="https://user-images.githubusercontent.com/135539975/262810626-49ad290e-df26-461f-ad97-73b99cc49caa.png">
 
 ### Olá! Eu sou o Jhonathan Coutinho 🖐️
 
