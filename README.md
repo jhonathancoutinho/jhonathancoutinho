@@ -25,5 +25,3 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathan-coutinho-de-oliveira-246898b8/)
 
-
-<img align="right" src=/>
