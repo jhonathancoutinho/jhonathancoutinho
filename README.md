@@ -1,10 +1,20 @@
+<img align="right" alt="Developer vector created by illustrator" height="397" src="https://user-images.githubusercontent.com/135539975/262809739-6b2b7c20-1921-494e-a083-a7c29cee1d32.png">
+
 ### Olá! Eu sou o Jhonathan Coutinho 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathan-coutinho-de-oliveira-246898b8/)
+
+<p align="justify">Estudante no 4º período de Análise e Desenvolvimento de Software, apaixonado por café, filmes, games e tecnologia.  
+<br>
+<p align="justify">Student in the 4th period of Software Analysis and Development, passionate about coffee, movies, games and technology.  
+<br>
+
+##
 
 ![Jhonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathancoutinho&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathancoutinho)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -13,4 +23,9 @@
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
-Estudante no 4º período de Análise e Desenvolvimento de Software, apaixonado por café, filmes, games e tecnologia.
+## Contato
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathan-coutinho-de-oliveira-246898b8/)
+
+
+<img align="right" src=/>
