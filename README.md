@@ -13,4 +13,4 @@
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
-Estudante no 3º período de Análise e Desenvolvimento de Software, apaixonado por café, filmes, games e tecnologia.
+Estudante no 4º período de Análise e Desenvolvimento de Software, apaixonado por café, filmes, games e tecnologia.
